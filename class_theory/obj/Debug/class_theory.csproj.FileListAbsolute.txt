@@ -1,0 +1,16 @@
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\bin\Debug\class_theory.exe.config
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\bin\Debug\class_theory.exe
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\bin\Debug\class_theory.pdb
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\obj\Debug\class_theory.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\obj\Debug\class_theory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\obj\Debug\class_theory.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\obj\Debug\class_theory.exe
+C:\Users\Пользователь\Desktop\Решённые практики\class_theory\class_theory\obj\Debug\class_theory.pdb
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\bin\Debug\class_theory.exe.config
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\bin\Debug\class_theory.exe
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\bin\Debug\class_theory.pdb
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\obj\Debug\class_theory.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\obj\Debug\class_theory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\obj\Debug\class_theory.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\obj\Debug\class_theory.exe
+C:\Users\Пользователь\Desktop\Программы для теории\class_theory\class_theory\obj\Debug\class_theory.pdb
